@@ -1,8 +1,6 @@
 # Sam Sepah
 
-Deaf accessibility leader. I build AI accessibility programs with Deaf, hard-of-hearing and disabled people, not just for them, from community co-design and data collection to features that ship.
-
-I believe access to the world's information isn't a privilege; it's a fundamental human right. Let's build a future that includes everyone.
+Deaf accessibility leader. I build AI accessibility programs with disabled and Deaf/HH people, not just for them, from community co-design and data collection to features that ship. I believe that access to the world's information isn't a privilege; it's a fundamental human right. Let's build a future that includes everyone. Let's connect if you believe in technology that empowers all.
 
 I work in American Sign Language (ASL), International Sign (IS) and English.
 
